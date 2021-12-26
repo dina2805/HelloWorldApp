@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f688d6b-1291-4531-a93a-5ddc0c1bb787": {
+      "ProjectGuid": "4f688d6b-1291-4531-a93a-5ddc0c1bb787",
+      "DisplayName": "HelloWorldApp.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
